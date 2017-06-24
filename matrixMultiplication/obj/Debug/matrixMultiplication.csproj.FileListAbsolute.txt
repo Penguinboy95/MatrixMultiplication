@@ -1,0 +1,18 @@
+c:\users\inteldoter\documents\visual studio 2017\Projects\matrixMultiplication\matrixMultiplication\bin\Debug\matrixMultiplication.exe.config
+c:\users\inteldoter\documents\visual studio 2017\Projects\matrixMultiplication\matrixMultiplication\bin\Debug\matrixMultiplication.exe
+c:\users\inteldoter\documents\visual studio 2017\Projects\matrixMultiplication\matrixMultiplication\bin\Debug\matrixMultiplication.pdb
+c:\users\inteldoter\documents\visual studio 2017\Projects\matrixMultiplication\matrixMultiplication\obj\Debug\matrixMultiplication.csprojResolveAssemblyReference.cache
+c:\users\inteldoter\documents\visual studio 2017\Projects\matrixMultiplication\matrixMultiplication\obj\Debug\matrixMultiplication.exe
+c:\users\inteldoter\documents\visual studio 2017\Projects\matrixMultiplication\matrixMultiplication\obj\Debug\matrixMultiplication.pdb
+C:\out\multithreading-master\matrixMultiplication\bin\Debug\matrixMultiplication.exe.config
+C:\out\multithreading-master\matrixMultiplication\bin\Debug\matrixMultiplication.exe
+C:\out\multithreading-master\matrixMultiplication\bin\Debug\matrixMultiplication.pdb
+C:\out\multithreading-master\matrixMultiplication\obj\Debug\matrixMultiplication.csprojResolveAssemblyReference.cache
+C:\out\multithreading-master\matrixMultiplication\obj\Debug\matrixMultiplication.exe
+C:\out\multithreading-master\matrixMultiplication\obj\Debug\matrixMultiplication.pdb
+D:\TVP\lab3\matrixMultiplication\bin\Debug\matrixMultiplication.exe.config
+D:\TVP\lab3\matrixMultiplication\bin\Debug\matrixMultiplication.exe
+D:\TVP\lab3\matrixMultiplication\bin\Debug\matrixMultiplication.pdb
+D:\TVP\lab3\matrixMultiplication\obj\Debug\matrixMultiplication.csprojResolveAssemblyReference.cache
+D:\TVP\lab3\matrixMultiplication\obj\Debug\matrixMultiplication.exe
+D:\TVP\lab3\matrixMultiplication\obj\Debug\matrixMultiplication.pdb
